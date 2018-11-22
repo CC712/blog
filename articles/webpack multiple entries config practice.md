@@ -60,7 +60,7 @@
       公司主力项目的html文件达到了惊人的2087个，如果手动写entry 和htmlplugin 显然是很容易出错，并且存在很大问题。
       如果，目录的格式是规则的，那么可以用glob去遍历。做一个目录和入口js以及html的映射。
         比如我们希望能够得到图示的entry设置
-![](resource/img/entriesMap.png)
+![](https://github.com/CC712/blog/blob/master/resource/img/entriesMap.png)
 
 #### getEntry
 
